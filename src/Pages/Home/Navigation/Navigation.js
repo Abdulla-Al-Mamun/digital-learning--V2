@@ -38,7 +38,7 @@ const Navigation = () => {
                     </NavLink>
                     <NavLink
                      style={{marginRight:'15px', textDecoration:'none', color:'white', fontSize:'20px'}}
-                        to="/"
+                        to="/about"
                         activeStyle={{
                             fontWeight: "bold",
                             color: "red"
@@ -58,7 +58,7 @@ const Navigation = () => {
                     </NavLink>
                     <NavLink
                      style={{marginRight:'15px', textDecoration:'none', color:'white', fontSize:'20px'}}
-                        to="/faq"
+                        to="/all-course"
                         activeStyle={{
                             fontWeight: "bold",
                             color: "red"
@@ -68,7 +68,7 @@ const Navigation = () => {
                     </NavLink>
                     <NavLink
                      style={{marginRight:'15px', textDecoration:'none', color:'white', fontSize:'20px'}}
-                        to="/faq"
+                        to="/contact-us"
                         activeStyle={{
                             fontWeight: "bold",
                             color: "red"
